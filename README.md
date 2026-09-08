@@ -83,10 +83,6 @@ The dashboard focuses on:
 * Customer segmentation
 * Age-group analysis
 
-### Dashboard Preview
-
-![Customer Behavior Dashboard](Screenshots/dashboard.png)
-
 ## Skills Demonstrated
 
 **Python | Pandas | PostgreSQL | SQL | Power BI | DAX | Power Query | Data Cleaning | Feature Engineering | Data Analysis | Data Visualization**
