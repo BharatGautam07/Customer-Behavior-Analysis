@@ -87,7 +87,7 @@ The dashboard focuses on:
 
 **Python | Pandas | PostgreSQL | SQL | Power BI | DAX | Power Query | Data Cleaning | Feature Engineering | Data Analysis | Data Visualization**
 
-About
+## About
 
-This project was created as part of my Data Analyst portfolio to demonstrate an end-to-end approach to data cleaning, data transformation, SQL analysis, and business intelligence using Python, PostgreSQL, SQL, and Power BI.
+**This project was created as part of my Data Analyst portfolio to demonstrate an end-to-end approach to data cleaning, data transformation, SQL analysis, and business intelligence using Python, PostgreSQL, SQL, and Power BI.**
 
